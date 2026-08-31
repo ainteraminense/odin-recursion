@@ -61,5 +61,3 @@ function merge (array1, array2) {
     }
     return mergedArray;
 }
-
-console.log(mergeSort([1, 2, 3, 4, 5]));
